@@ -1,0 +1,2 @@
+# Serial-Parallel-Multiplier
+ The Serial Parallel Multiplier (SPM) is a digital circuit designed to perform high-speed multiplication operations by combining serial and parallel processing techniques. This Verilog project showcases the implementation of a Serial Parallel Multiplier using Carry Save Adder (CSA) modules, providing an efficient solution for multiplication tasks in digital signal processing, cryptography, and other applications requiring fast arithmetic operations.
