@@ -148,6 +148,10 @@
   },
   "active": "8af8406f141b19f6",
   "lastOpenFiles": [
+    "tb/dataIn.mem",
+    "tb/pm_TB_V2.v",
+    "src/dataIn.mem",
+    "src/pm_TB_V2.v",
     "Figures/simulation.png",
     "Figures/ConsoleOutput.png",
     "Figures/SPM_4bitMultiply.png",
