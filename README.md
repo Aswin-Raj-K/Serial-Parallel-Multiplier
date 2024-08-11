@@ -10,6 +10,7 @@ Let us multiply a 4-bit binary. The result is as shown below,
 The flow of data in each cycle is as shown below,
 
 <p align="center"> <img src="Figures/SPM_Explanation.png" alt="Data" /> </p>
+
 ### Features
 
 - **Parameterized Design**: The module is designed to be scalable with a parameterized size, making it adaptable for various bit-widths.
