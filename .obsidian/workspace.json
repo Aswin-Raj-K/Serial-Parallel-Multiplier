@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cf0137f45994f90",
+  "active": "8af8406f141b19f6",
   "lastOpenFiles": [
-    "Figures/SPM_Explanation.png",
+    "Figures/simulation.png",
+    "Figures/ConsoleOutput.png",
     "Figures/SPM_4bitMultiply.png",
+    "Figures/SPM_Explanation.png",
+    "README.md",
     "Figures/SPM_FSM.png",
     "Figures",
     "tb/pm_TB.v",
