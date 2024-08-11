@@ -33,6 +33,7 @@ The flow of data in each cycle is as shown below,
 The `pm` module incorporates a Finite State Machine (FSM) to control the flow of operations for a parallel multiplier. The FSM ensures that the multiplication process is executed in a structured sequence, handling different stages of operation and synchronization.
 
 <p align="center"> <img src="Figures/SPM_FSM.png" alt="State Machine Diagram" /> </p>
+
 ### Result
 
 The module is tested with test cases stored in `dataIn.mem`. The simulation output in the TCL console window is shown below:
@@ -42,6 +43,5 @@ The module is tested with test cases stored in `dataIn.mem`. The simulation outp
 </p>
 
 The waveform window for a single test case is shown below. The start signal is asserted for one clock cycle to initiate the multiplication. After several cycles, the done signal goes high, indicating that the result is ready.
-
 
 <p align="center"> <img src="Figures/simulation.png" alt="State Machine Diagram" /> </p>
